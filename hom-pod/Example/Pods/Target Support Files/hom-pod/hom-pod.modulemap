@@ -1,0 +1,6 @@
+framework module hom_pod {
+  umbrella header "hom-pod-umbrella.h"
+
+  export *
+  module * { export * }
+}

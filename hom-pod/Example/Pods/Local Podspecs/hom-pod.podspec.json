@@ -1,0 +1,22 @@
+{
+  "name": "hom-pod",
+  "version": "0.1.0",
+  "summary": "A short description of hom-pod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tamaykut/hom-pod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tamaykut": "tamay.aykut@outlook.com"
+  },
+  "source": {
+    "git": "https://github.com/tamaykut/hom-pod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "hom-pod/Classes/**/*"
+}

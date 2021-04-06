@@ -1,0 +1,16 @@
+PODS:
+  - hom-pod (0.1.0)
+
+DEPENDENCIES:
+  - hom-pod (from `../`)
+
+EXTERNAL SOURCES:
+  hom-pod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  hom-pod: f29af4740c9fb04154dfe133a77db4c09ddf4146
+
+PODFILE CHECKSUM: 96c09016ded0c8ef24d60809d5aa546e49040297
+
+COCOAPODS: 1.10.1
